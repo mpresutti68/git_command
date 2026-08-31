@@ -11,6 +11,7 @@ if "%messaggio%"=="" (
 )
 
 :: Esegue il commit con il messaggio inserito
+cd C:\Progetti\EnhancedCourseManagement
 git commit -m "%messaggio%"
 
 
