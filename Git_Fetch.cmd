@@ -1,5 +1,5 @@
 cd C:\Progetti\EnhancedCourseManagement
-git switch Dev_2_1
+git fetch
 
 
 TIMEOUT /T 10
