@@ -1,5 +1,5 @@
 cd C:\Progetti\EnhancedCourseManagement
 git status
 
-
-TIMEOUT /T 10
+pause
+// TIMEOUT /T 10
