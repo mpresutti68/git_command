@@ -13,6 +13,7 @@ echo.
 echo Entrando nella cartella: %DIR_SELEZIONATA%
 cd /d "%DIR_SELEZIONATA%"
 
+git fetch
 git status
 
 pause

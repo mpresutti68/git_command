@@ -13,6 +13,6 @@ echo.
 echo Entrando nella cartella: %DIR_SELEZIONATA%
 cd /d "%DIR_SELEZIONATA%"
 
-git pull
+git ls-remote --tags origin
 
 pause
